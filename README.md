@@ -1,3 +1,4 @@
+#GG
 # Strongly typed hydrator for PHP 8.0+
 
 ---
